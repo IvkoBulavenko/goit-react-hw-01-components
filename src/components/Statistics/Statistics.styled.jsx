@@ -5,10 +5,9 @@ export const StatBox = styled.section`
   text-align: center;
   width: 350px;
   background-color: #fff;
-  border: 1px solid rgb(228, 221, 221);
+  border: 1px solid rgb(240, 120, 350);
   border-radius: 5px;
-  box-shadow: 11px 13px 10px rgba(172, 255, 255, 1);
-`;
+  `;
 
 export const Title = styled.h2`
   font-weight: bold;

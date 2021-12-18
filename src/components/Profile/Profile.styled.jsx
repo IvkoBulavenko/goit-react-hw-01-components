@@ -5,9 +5,8 @@ export const ProfileCard = styled.div`
   width: 350px;
   margin: 0 auto 50px;
   background-color: #fff;
-  border: 1px solid rgb(228, 221, 221);
+  border: 1px solid rgb(240, 120, 350);
   border-radius: 5px;
-  box-shadow: 11px 13px 10px rgba(172, 255, 255, 1);
   );
 `;
 
@@ -20,7 +19,7 @@ export const Avatar = styled.img`
   height: 150px;
   width: 150px;
   margin: 0 auto;
-  border: 1px solid rgb(228, 221, 221);
+  border: 1px solid rgb(240, 120, 350);
   border-radius: 50%;
   background-color: rgb(0, 183, 255);
 `;
